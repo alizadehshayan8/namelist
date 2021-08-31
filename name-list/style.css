@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.end{
+     background-color: black;
+     
+
+
+  }
+.txt-end{
+      color: white;
+}
+
+
+body{
+    background-image: url("1.jpg");
+    
+    background-size: cover;
+    
+}
+.haed-txt{
+    font-size: 30px !important;
+}
+
+@media screen and (min-width: 500px){
+    
+
+
+body{
+    background-image: url("2.jpg");
+    
+    background-size: cover;
+    
+}
+
+
+.haed-txt{
+    font-size: 60px !important;
+}
+}
